@@ -12,7 +12,7 @@ const LandingPage = () => {
                 <div className="lp_text text-center">
                     <p>Hi! My name is Patrick Lehmann. 
                         <br /> 
-                        I'm a web developer from Long Island, New York.
+                        I'm a web developer from Long Island, New York. <br />
                     </p>
                 </div>
             </div>

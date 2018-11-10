@@ -1,0 +1,10 @@
+.portfolio_wrapper {
+    background-color: #010030;
+    min-height: 100vh;
+}
+
+.portfolio_heading {
+    font-size: 50px;
+    padding-top: 30px;
+}
+

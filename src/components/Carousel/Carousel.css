@@ -1,0 +1,28 @@
+.main_carousel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly !important;
+    flex-wrap: wrap;
+}
+
+.carousel_wrapper {
+    margin: 20px;
+}
+
+.carousel_1 {
+    flex-direction: column;
+}
+
+.carousel_2 {
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1020px) {
+    .carousel_1 {
+        flex-direction: row;
+    }
+    
+    .carousel_2 {
+        flex-direction: row;
+    }
+}
