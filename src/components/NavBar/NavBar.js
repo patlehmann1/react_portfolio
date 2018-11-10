@@ -11,7 +11,7 @@ const NavBar = () => {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a className="nav-link" href="#">About</a>
+                        <a className="nav-link" href="#aboutme_wrapper">About</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="#">Portfolio</a>

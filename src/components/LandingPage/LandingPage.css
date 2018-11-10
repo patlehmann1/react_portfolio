@@ -12,7 +12,7 @@
     height: 100vh;
 }
 
-div.lp_text {
+.lp_text {
     color: white;
     font-size: 40px;
     display: flex;
@@ -22,8 +22,16 @@ div.lp_text {
     height: 90vh;
 }
 
+
+
 @media screen and (max-width: 760px) {
-    div.lp_text {
+    .dropdown-menu {
+        position: relative;
+        z-index: 1;
+    }
+
+    .lp_text {
+        position: absolute;
         padding: 0px 20px;
         font-size: 25px;
     }

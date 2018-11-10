@@ -1,5 +1,5 @@
 .aboutme_wrapper {
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .about_heading {
@@ -7,3 +7,39 @@
     font-size: 50px;
     margin-top: 30px;
 }
+
+.about_cards {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.cards {
+    margin-top: 50px !important;
+    width: 475px;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
+            0 2px 4px 0 rgba(0,0,0,0.08);
+}
+
+.card-heading {
+    color: #3c3b7e;
+    text-align: center;
+}
+
+.card-content {
+    color: #181691;
+}
+
+.bottom_text {
+    color: #181691;
+    margin: 50px 25px 0px 25px;
+    font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
+0 2px 4px 0 rgba(0,0,0,0.08);
+}
+
+
