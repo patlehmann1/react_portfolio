@@ -1,0 +1,40 @@
+.landing_background { 
+        background: url(./coding2.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        height: 100vh;
+}
+
+.img_overlay {
+    background: rgba(0, 0, 0, .8);
+    height: 100vh;
+}
+
+div.lp_text {
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 90vh;
+}
+
+@media screen and (max-width: 760px) {
+    div.lp_text {
+        padding: 0px 20px;
+        font-size: 25px;
+    }
+}
+
+.top_nav {
+    font-size: 20px;
+    margin: 40px;
+    float: right;
+}
+
+.main_header {
+    color: white;
+}
