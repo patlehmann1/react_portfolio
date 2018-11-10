@@ -9,6 +9,15 @@
     margin: 20px;
 }
 
+.ch_container {
+    background-color: white !important;
+}
+
+.carousel_heading {
+    font-size: 20px;
+    background-color: #010050;
+}
+
 .carousel_1 {
     flex-direction: column;
 }
@@ -17,12 +26,15 @@
     flex-direction: column;
 }
 
-@media screen and (min-width: 1020px) {
-    .carousel_1 {
-        flex-direction: row;
-    }
-    
-    .carousel_2 {
-        flex-direction: row;
+.carousel-item {
+    max-width: 30vw;
+    max-height: 30vh;
+}
+
+
+@media screen and (max-width: 770px) {
+    .carousel-item {
+        max-width: 90vw;
+        max-height: 23vh;
     }
 }

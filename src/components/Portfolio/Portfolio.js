@@ -10,23 +10,26 @@ const Portfolio = () => {
             <div className='main_carousel'>
                 <div className='carousel_1'>
                     <Carousel
-                        img1='https://via.placeholder.com/550x300'
-                        img2='https://via.placeholder.com/550x300'
-                        img3='https://via.placeholder.com/550x300'
+                        heading='Front End'
+                        img1='/images/api-site.jpg'
+                        img2='/images/clicky-game.png'
+                        img3='/images/crystals.jpg'
                     />
                 </div>
                 <div className="carousel_2">
                     <Carousel
-                        img1='https://via.placeholder.com/550x300'
-                        img2='https://via.placeholder.com/550x300'
-                        img3='https://via.placeholder.com/550x300'
+                        heading='Back End'
+                        img1='/images/liri_node_app.gif'
+                        img2='/images/node_mysql_storev2.gif'
+                        img3='https://via.placeholder.com/500x250'
                     />
                 </div>
                 <div className="carousel_2">
                     <Carousel
-                        img1='https://via.placeholder.com/550x300'
-                        img2='https://via.placeholder.com/550x300'
-                        img3='https://via.placeholder.com/550x300'
+                        heading='Full Stack'
+                        img1='https://via.placeholder.com/500x250'
+                        img2='https://via.placeholder.com/500x250'
+                        img3='https://via.placeholder.com/500x250'
                     />
                 </div>
             </div>
