@@ -1,16 +1,7 @@
-.main_carousel {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly !important;
-    flex-wrap: wrap;
-}
+
 
 .carousel_wrapper {
     margin: 20px;
-}
-
-.ch_container {
-    background-color: white !important;
 }
 
 .carousel_heading {
@@ -18,23 +9,33 @@
     background-color: #010050;
 }
 
-.carousel_1 {
-    flex-direction: column;
-}
-
-.carousel_2 {
-    flex-direction: column;
-}
-
 .carousel-item {
-    max-width: 30vw;
-    max-height: 30vh;
+    max-width: 400px;
+    height: auto;
 }
 
+.carousel-caption {
+    height: 80%;
+    background-color: rgba(0, 0, 0, .8);
+}
 
-@media screen and (max-width: 770px) {
+.carousel_link {
+    background-color: rgba(0, 0, 0);
+    margin: 0% 20%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, .8);
+}
+
+@media screen and (max-width: 1400px) {
     .carousel-item {
-        max-width: 90vw;
-        max-height: 20vh;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .carousel-caption {
+        height: 80%;
+        background-color: rgba(0, 0, 0, .8);
     }
 }
