@@ -35,6 +35,6 @@
 @media screen and (max-width: 770px) {
     .carousel-item {
         max-width: 90vw;
-        max-height: 23vh;
+        max-height: 20vh;
     }
 }

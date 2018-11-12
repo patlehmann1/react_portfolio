@@ -22,8 +22,6 @@
     height: 90vh;
 }
 
-
-
 @media screen and (max-width: 760px) {
     .dropdown-menu {
         position: relative;

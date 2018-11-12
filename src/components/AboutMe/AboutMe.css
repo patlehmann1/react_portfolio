@@ -10,7 +10,7 @@
 
 .about_cards {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row;
     justify-content: center;
 }
 
@@ -42,4 +42,14 @@ box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
 0 2px 4px 0 rgba(0,0,0,0.08);
 }
 
+@media screen and (max-width: 995px) {
+    .about_cards {
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    .bottom_text {
+        margin-bottom: 30px;
+    }
+}
 

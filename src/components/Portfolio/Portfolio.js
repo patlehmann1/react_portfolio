@@ -1,5 +1,8 @@
 import React from 'react';
-import Carousel from '../Carousel/Carousel';
+import Carousel1 from '../Carousel/Carousel1';
+import Carousel2 from '../Carousel/Carousel2';
+import Carousel3 from '../Carousel/Carousel3';
+
 
 import './Portfolio.css';
 
@@ -9,28 +12,13 @@ const Portfolio = () => {
             <p className='portfolio_heading text-white text-center'>Portfolio</p>
             <div className='main_carousel'>
                 <div className='carousel_1'>
-                    <Carousel
-                        heading='Front End'
-                        img1='/images/api-site.jpg'
-                        img2='/images/clicky-game.png'
-                        img3='/images/crystals.jpg'
-                    />
+                    <Carousel1 />
                 </div>
                 <div className="carousel_2">
-                    <Carousel
-                        heading='Back End'
-                        img1='/images/liri_node_app.gif'
-                        img2='/images/node_mysql_storev2.gif'
-                        img3='https://via.placeholder.com/500x250'
-                    />
+                    <Carousel2 />
                 </div>
                 <div className="carousel_2">
-                    <Carousel
-                        heading='Full Stack'
-                        img1='https://via.placeholder.com/500x250'
-                        img2='https://via.placeholder.com/500x250'
-                        img3='https://via.placeholder.com/500x250'
-                    />
+                    <Carousel3 />
                 </div>
             </div>
         </div>
