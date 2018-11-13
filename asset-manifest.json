@@ -1,7 +1,7 @@
 {
-  "main.css": "/react_portfolio/static/css/main.a572b22a.chunk.css",
-  "main.js": "/react_portfolio/static/js/main.ab35721b.chunk.js",
-  "main.js.map": "/react_portfolio/static/js/main.ab35721b.chunk.js.map",
+  "main.css": "/react_portfolio/static/css/main.2c2d7878.chunk.css",
+  "main.js": "/react_portfolio/static/js/main.638cc32d.chunk.js",
+  "main.js.map": "/react_portfolio/static/js/main.638cc32d.chunk.js.map",
   "static/js/1.91ea072c.chunk.js": "/react_portfolio/static/js/1.91ea072c.chunk.js",
   "static/js/1.91ea072c.chunk.js.map": "/react_portfolio/static/js/1.91ea072c.chunk.js.map",
   "runtime~main.js": "/react_portfolio/static/js/runtime~main.c37a5afe.js",
@@ -18,8 +18,8 @@
   "static/media/newsday_headlines.jpg": "/react_portfolio/static/media/newsday_headlines.60ca2302.jpg",
   "static/media/pouches.jpg": "/react_portfolio/static/media/pouches.086b507b.jpg",
   "static/media/api-site.jpg": "/react_portfolio/static/media/api-site.4fc7a89e.jpg",
-  "static/css/main.a572b22a.chunk.css.map": "/react_portfolio/static/css/main.a572b22a.chunk.css.map",
+  "static/css/main.2c2d7878.chunk.css.map": "/react_portfolio/static/css/main.2c2d7878.chunk.css.map",
   "index.html": "/react_portfolio/index.html",
-  "precache-manifest.df1ffe4543c214cd5744d439ccb6958b.js": "/react_portfolio/precache-manifest.df1ffe4543c214cd5744d439ccb6958b.js",
+  "precache-manifest.2eb346afb52cb8bf527f271f5a6fff61.js": "/react_portfolio/precache-manifest.2eb346afb52cb8bf527f271f5a6fff61.js",
   "service-worker.js": "/react_portfolio/service-worker.js"
 }
