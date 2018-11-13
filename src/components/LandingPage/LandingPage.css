@@ -15,7 +15,7 @@
 .lp_text {
     color: white;
     font-family: 'Inconsolata', monospace;
-    font-size: 40px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +32,6 @@
     .lp_text {
         position: absolute;
         padding: 0px 20px;
-        font-size: 25px;
     }
 }
 
