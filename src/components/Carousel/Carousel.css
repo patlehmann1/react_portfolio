@@ -10,7 +10,7 @@
 }
 
 .carousel-item {
-    max-width: 450px;
+    max-width: 480px;
     height: auto;
 }
 
@@ -28,7 +28,7 @@
     background-color: rgba(0, 0, 0, .8);
 }
 
-@media screen and (max-width: 1470px) {
+@media screen and (max-width: 1580px) {
     .carousel-item {
         max-width: 100%;
         height: auto;
