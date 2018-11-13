@@ -74,7 +74,7 @@ const AboutMe = () => {
                     </div>
                 </div>
             </div>
-            <div className="card bottom_text text-center">
+            <div className="card cards bottom_text text-center">
                 <p>
                     "The difference between a successful person and others is not a lack of strength, 
                     not a lack of knowledge, but rather a lack of will." <br /> -Vince Lombardi

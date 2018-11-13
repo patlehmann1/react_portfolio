@@ -1,0 +1,10 @@
+.app_footer {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    min-height: 5vh;
+}
+
+.footer_text {
+    padding: 2%;
+}

@@ -1,5 +1,6 @@
 .aboutme_wrapper {
     min-height: 100vh;
+    font-family: 'Inconsolata', monospace;
 }
 
 .about_heading {
@@ -15,11 +16,12 @@
 }
 
 .cards {
+    font-family: 'Inconsolata', monospace;
     margin-top: 50px !important;
     width: 475px;
     margin: auto;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12),
-            0 2px 4px 0 rgba(0,0,0,0.08);
+                0 2px 4px 0 rgba(0,0,0,0.08);
 }
 
 .card-heading {

@@ -1,0 +1,43 @@
+.contact_wrapper {
+    background-color: #000000;
+    background-image: url("./3px-tile.png");
+    min-height: 50vh;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly !important;
+}
+
+.contact_info {
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Inconsolata', monospace;
+    max-width: 100%;
+}
+
+.contact_me {
+    font-size: 50px;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+}
+
+.contact_content, .contact_areas {
+    font-size: 20px;
+}
+
+.spotify_embed {
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+@media screen and (max-width: 1235px) {
+    .contact_wrapper {
+        flex-wrap: wrap;
+    }
+
+    .contact_info {
+        margin-bottom: 20px;
+    }
+
+}
+
