@@ -12,6 +12,8 @@
     border-radius: 5px;
     font-family: 'Inconsolata', monospace;
     max-width: 100%;
+    display:flex row;
+    padding: 20px;
 }
 
 .contact_me {
@@ -41,4 +43,16 @@
     }
 
 }
+
+@media screen and (max-width: 385px) {
+    .contact_me {
+        font-size: 40px;
+    }
+
+    .contact_link {
+        font-size: 75%;
+    }
+
+}
+
 
