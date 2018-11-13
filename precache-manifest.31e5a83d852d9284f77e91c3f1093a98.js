@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/crystals.6fa537a0.jpg"
   },
   {
-    "revision": "26c5d6080d6880a224d3",
-    "url": "/react_portfolio/static/css/main.c0396df9.chunk.css"
+    "revision": "be49b2b9e9b3723e6511",
+    "url": "/react_portfolio/static/css/main.6a558b35.chunk.css"
   },
   {
     "revision": "91ea072c0dc511c98d6c",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/musicSite.74c56474.jpg"
   },
   {
-    "revision": "26c5d6080d6880a224d3",
-    "url": "/react_portfolio/static/js/main.26c5d608.chunk.js"
+    "revision": "be49b2b9e9b3723e6511",
+    "url": "/react_portfolio/static/js/main.be49b2b9.chunk.js"
   },
   {
     "revision": "cb18cccb61b72aa8b0927243916bfc59",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/eat_da_burger.9a21da6e.jpg"
   },
   {
-    "revision": "63c098f5e026453631a4dbdc1917a329",
+    "revision": "35518505d0d6adfc126fe1931380f1fe",
     "url": "/react_portfolio/index.html"
   }
 ];
