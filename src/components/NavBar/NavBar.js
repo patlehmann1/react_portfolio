@@ -3,8 +3,8 @@ import './NavBar.css';
 
 const NavBar = () => {
     return (
-        <nav className="navbar navbar-dark navbar-expand-lg">
-            <a className="navbar navbar-brand text-white" href="#">P W L</a>
+        <nav className="navbar navbar-dark navbar-expand-lg" id="navbar">
+            <a className="navbar navbar-brand text-white" href="#navbar">P W L</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
