@@ -17,13 +17,13 @@ const NavBar = () => {
                         <a className="nav-link" href="#portfolio_wrapper">Portfolio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Contact</a>
+                        <a className="nav-link" href="#contact_wrapper">Contact</a>
                     </li>
                     <li className="nav-item dropdown">
                         <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a className="dropdown-item" href="#">Action</a>
-                            <a className="dropdown-item" href="#">Another action</a>
-                            <a className="dropdown-item" href="#">Something else here</a>
+                            <a className="dropdown-item" href="#aboutme_wrapper">About</a>
+                            <a className="dropdown-item" href="#portfolio_wrapper">Portfolio</a>
+                            <a className="dropdown-item" href="#contact_wrapper">Contact</a>
                         </div>
                     </li>
                 </ul>

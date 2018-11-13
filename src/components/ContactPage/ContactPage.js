@@ -4,7 +4,7 @@ import './ContactPage.css';
 
 const ContactPage = () => {
     return (
-        <div className="contact_wrapper p-5">
+        <div className="contact_wrapper p-5" id="contact_wrapper">
             <div className="contact_info text-white">
                 <h3 className="contact_me">Let's Stay Connected!</h3>
                 <p className="contact_content">
