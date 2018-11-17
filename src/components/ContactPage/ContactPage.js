@@ -15,7 +15,7 @@ const ContactPage = () => {
                     <p><i class="fas fa-envelope"></i> Email: <a className="contact_link" href="mailto:patlehmann1@gmail.com" target="_blank" rel="noopener noreferrer">patlehmann1@gmail.com</a></p>
                     <p><i class="fab fa-github-square"></i> GitHub: <a className="contact_link" href="https://github.com/patlehmann1/" target="_blank" rel="noopener noreferrer">github.com/patlehmann1/</a></p>
                     <p><i class="fab fa-linkedin"></i> LinkedIn: <a className="contact_link" href="https://linkedin.com/in/patlehmann1" target="_blank" rel="noopener noreferrer">linkedin.com/in/patlehmann1</a></p>
-                    <p><i class="fab fa-twitter"></i> Twitter: <a className="contact_link" href="https://twitter.com/N0TH1S1SP4TR1CK" target="_blank" rel="noopener noreferrer">twitter.com/N0TH1S1SP4TR1CK</a></p>
+                    <p><i class="fab fa-twitter"></i> Twitter: <a className="contact_link" href="https://twitter.com/lehmann_pat" target="_blank" rel="noopener noreferrer">twitter.com/lehmann_pat</a></p>
                     <p>Blog Coming Soon!</p>
 
                 </div>
