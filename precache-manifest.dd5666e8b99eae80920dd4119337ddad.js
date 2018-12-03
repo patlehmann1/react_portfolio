@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/crystals.6fa537a0.jpg"
   },
   {
-    "revision": "08ac908aceb871e2ff10",
-    "url": "/react_portfolio/static/css/main.de4b99ba.chunk.css"
+    "revision": "ed8e146c40601b6e56a1",
+    "url": "/react_portfolio/static/css/main.f45efb99.chunk.css"
   },
   {
     "revision": "91ea072c0dc511c98d6c",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/js/runtime~main.c37a5afe.js"
   },
   {
-    "revision": "053e654c366bc0d6c4003c3e3c2e4e71",
-    "url": "/react_portfolio/static/media/coding2.053e654c.jpg"
+    "revision": "c2ac02fa33e120e1c4522e6c24466d8d",
+    "url": "/react_portfolio/static/media/wave.c2ac02fa.jpg"
   },
   {
     "revision": "4fc7a89ea692e67c705398156d24f248",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/musicSite.74c56474.jpg"
   },
   {
-    "revision": "08ac908aceb871e2ff10",
-    "url": "/react_portfolio/static/js/main.08ac908a.chunk.js"
+    "revision": "ed8e146c40601b6e56a1",
+    "url": "/react_portfolio/static/js/main.ed8e146c.chunk.js"
   },
   {
     "revision": "cb18cccb61b72aa8b0927243916bfc59",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/react_portfolio/static/media/eat_da_burger.9a21da6e.jpg"
   },
   {
-    "revision": "007a59d71e9a08490311cefc59e9f35f",
+    "revision": "654add1b53b41995eabebaf535855733",
     "url": "/react_portfolio/index.html"
   }
 ];
